@@ -2,11 +2,10 @@ package com.cc.java;
 
 public class Konto {
 
-
     private int kontostand = 10000;
 
     public Konto() {
-        
+
     }
 
     public int getKontostand() {
